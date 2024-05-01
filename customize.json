@@ -1,0 +1,23 @@
+{
+  "greeting": "Hejka",
+  "name": "Natalka",
+  "greetingText": "Dzis jest specjalny dzien...",
+  "wishText": "Oby twoje najskrytsze zyczenia sie spelnily :D ",
+  "imagePath": "img/misiaczek.png",
+  "text1": "Sa twoje urodzinki!!! :D",
+  "textInChatBox": "Wszystkiego najlepszego!! Duzo zdrowka, bla, bla, bla....",
+  "sendButtonLabel": "Wyslij",
+  "text2": "Tak zamierzalem zrobic...",
+  "text3": "Ale zastanowilem sie ponownie.",
+  "text4": "I zrozumialem, ze chce zrobic cos bardziej",
+  "text4Adjective": "wyjatkowego",
+  "text5Entry": "Poniewaz,",
+  "text5Content": "Ty jestes dla mnie Wyjatkowa",
+  "smiley": ":)",
+  "bigTextPart1": "Wi",
+  "bigTextPart2": "ec",
+  "wishHeading": "Wszystkiego najlepszego kochanie!",
+  "outroText": "Dobra, teraz napisz mi  czy sie spodobalo :)",
+  "replayText": "Lub kliknij, jesli chcesz obejrzec ponownie.",
+  "outroSmiley": ":)"
+}
